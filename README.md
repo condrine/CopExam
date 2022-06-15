@@ -3,7 +3,7 @@ End Term Examination Codebase for Computational Physics Course at TIFR
 
 ## Setup
 * ```git clone https://github.com/condrine/CopExam RM_Exam```
-* ```cd RM_Assn```
+* ```cd RM_Exam```
 * ```pip3 install -r requirements.txt```
 
 ## How to Run
