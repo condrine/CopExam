@@ -80,7 +80,6 @@ plt = plt_creator(
 )
 plt.plot(np.linspace(xi, xf, N, endpoint=False)[1:], X)
 plt.savefig("Results/yvsx.png")
-plt.show()
 
 
 
